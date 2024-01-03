@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lalitnagwan
-- I've learnt Front-End Development. HTML|CSS|JAVASCRIPT|BOOTSTRAP|JQUERY|AJAX|PROMISES|GIT
+- MERN Stack Developer
+- I've learnt web Development. HTML|CSS|JAVASCRIPT|BOOTSTRAP|JQUERY|AJAX|PROMISES|GIT
 - 👀 I’m interested in Coding, Building websites, Exploring new things related to tech Industries
 - 🌱 I’m currently learning React.js| Node.js| Django|
 - Build couple of Projects - ToDo List|Clock|Calculater|Ping-Pong-Game
